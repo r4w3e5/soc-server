@@ -37,7 +37,7 @@ sudo systemctl enable apache2.service
 
 Issue rights to execute:
 ```
-sudo chmod +x /path/to/file/soc-server.sh
+sudo chmod +x /path/to/file/SOC-Server.101
 ```
 
 Setting up rc-local:
@@ -58,7 +58,7 @@ sudo nano /etc/rc.local
 
 Specify start-up file locations:
 ```
-bash /path/to/file/soc-server.sh &
+bash /path/to/file/SOC-Server.101 &
 ```
 
 ### Example:
