@@ -3,19 +3,19 @@
 
 🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳
 
-SSH protection 22/tcp
+✅ SSH protection 22/tcp
 
-HTTP protection 80/tcp
+✅ HTTP protection 80/tcp
 
-HTTPS protection 443/tcp
+✅ HTTPS protection 443/tcp
 
-NX protection 4000/tcp
+✅ NX protection 4000/tcp
 
-Protection against port scanners
+✅ Protection against port scanners
 
-SYN-flood protection
+✅ SYN-flood protection
 
-Ping of death protection
+✅ Ping of death protection
 
 🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳🔳
 
