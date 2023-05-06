@@ -1,5 +1,23 @@
 # SOC-Server
-### Security operation center
+### Security operation center:
+
+################################
+
+SSH protection 22/tcp
+
+HTTP protection 80/tcp
+
+HTTPS protection 443/tcp
+
+NX protection 4000/tcp
+
+Protection against port scanners
+
+SYN-flood protection
+
+Ping of death protection
+
+################################
 
 1. Install requirements:
 
